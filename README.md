@@ -20,7 +20,7 @@ Cards within the catalog can be reprinted on request for a reasonable fee.  Card
 
 ## Crowd Sourcing
 
-New cards can be created online and printed with the JRUCS templates and the AI of your choice.  We encourage you to share them back so others can use them too.
+New cards can be created online and printed with the JRUCS templates.  We encourage you to share them back so others can use them too.
 
 ## The Mutability of Rules
 
@@ -38,8 +38,6 @@ A game is played with:
 ## Point System
 
 There is a point system to build deck.  Each player has a maximum of 100 points.  Some cards have negative point values because they're terrible.  The point system is not printed on the cards but maintained online, so values can be changed for balacing.
-
-It might be interesting to handicap with higher points reducing starting life.
 
 ## Types
 
