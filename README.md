@@ -4,7 +4,7 @@ JRUCS Reconfigurable Universal Card System (JRUCS) is for playing trading card g
 
 ## Packaging
 
-The cards are Tarot size (2.75" x 4.75").  This gives a lot of room for art.  At the same time, standard Tarot storage works.  These cards are intended to be shuffled.
+The cards are Tarot size (2.75" x 4.75").  This gives a lot of room for art.  These cards are intended to be shuffled.
 
 Decks can be other sizes and aspect ratios, for instance landscape.  Varied formats and backs are encouraged.  Different format decks can play one another.  Decks might even mix formats.  Rules are intended to be fluid and neogotiable.
 
