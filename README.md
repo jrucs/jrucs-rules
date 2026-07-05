@@ -31,7 +31,7 @@ Everything that follows is a standard structure.  Particular games or cards can 
 A game is played with:
 
 * 50 cards
-* 5 card hand
+* 10 card hand
 * 1 card draw
 * 10 life
 
