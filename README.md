@@ -79,7 +79,7 @@ Resolution can follow one of three models:
 
 ## Hand Size
 
-Maximum hand size is 5.
+Maximum hand size is 10.
 
 ## Tapping Objects
 
